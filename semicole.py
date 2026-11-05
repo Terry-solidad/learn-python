@@ -1,0 +1,1 @@
+print("Hello, World!"); print("Python is fun!"); print("Python is easy to learn!"); print("Python is powerful!"); print("Python is versatile!"); x = 5; y = "Hello, World!"; print(x); print(y); 
