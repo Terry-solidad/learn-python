@@ -1,0 +1,73 @@
+# 🐍 Python Learning Journey
+
+Welcome to my Python Learning Repository!
+
+This repository documents my journey as I learn Python programming, starting with the fundamentals and gradually building my programming skills through practical exercises, examples, and coding challenges.
+
+I'm using this repository to track my progress, practise problem-solving, and strengthen my understanding of Python.
+
+## 📚 Topics Covered
+
+So far, I have explored the following Python concepts:
+
+| # | Topic | Description |
+|---|---|---|
+| 1 | Variables | Understanding how to store and manage data in Python. |
+| 2 | Boolean Calculations | Working with Boolean values (`True` and `False`) and logical expressions. |
+| 3 | Global Variables | Understanding variables that can be accessed throughout a program. |
+| 4 | MyFile | Practising Python file-related concepts. |
+| 5 | Same Line | Learning how to execute multiple statements on the same line. |
+| 6 | Semicolon | Understanding the use of semicolons in Python. |
+| 7 | Ugly Numbers | Solving programming challenges using Python logic. |
+
+## 🛠️ Technologies & Tools
+
+- **Language:** Python
+- **Code Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
+- **Operating System:** Windows
+
+## 🎯 Learning Goals
+
+- Master Python fundamentals.
+- Improve logical thinking and problem-solving.
+- Practise coding challenges.
+- Understand functions, loops, and conditional statements.
+- Explore data structures and algorithms.
+- Build practical projects using Python.
+
+## 📂 Repository Structure
+
+```text
+python-lessons/
+│
+├── boolean_calculations.py
+├── global_variables.py
+├── myfile.py
+├── same_line.py
+├── semicolon.py
+├── ugly_numbers.py
+├── variables.py
+│
+└── README.md
+```
+
+*Note: The filenames above are suggested. Adjust them to match your actual files.*
+
+## 📈 My Progress
+
+I am continuously learning, practising, and adding new Python concepts to this repository.
+
+This is a work in progress, and every lesson is another step towards becoming a better programmer.
+
+## 👩‍💻 Author
+
+**Terry**
+
+Aspiring Software Engineer | Full-Stack Developer | Python Learner
+
+---
+
+⭐ Thank you for visiting my Python Learning Repository!
+
+*Learning one line of code at a time.* 🐍
